@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938351089966-cci0f4uduquo6epuor8otc6a1hmi6352.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938351089966-cci0f4uduquo6epuor8otc6a1hmi6352</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCr02nvtiGHXjj4WdfQ7mB9Y6tY-Vu-Dk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938351089966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.byfrunze.militaryAllAround</string>
+	<key>PROJECT_ID</key>
+	<string>military-all-around</string>
+	<key>STORAGE_BUCKET</key>
+	<string>military-all-around.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938351089966:ios:ec8a25c453bb8ab698c2bf</string>
+</dict>
+</plist>
